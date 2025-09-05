@@ -6,8 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>HELLO WORLD</h1>
-    <a href="home">home</a>
-    <a href="contact">kontak</a>
+    <h1>HALAMAN HOME</h1>
 </body>
 </html>
