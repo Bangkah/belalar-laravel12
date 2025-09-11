@@ -4,7 +4,7 @@ Repository pribadi untuk mendokumentasikan proses saya belajar Laravel 12 — da
 Commit-per-commit saya catat progressnya; repo ini akan terus bertambah seiring waktu.
 
 ## Tujuan
-- Pahami flow kerja Laravel 8→12  
+- Pahami flow kerja Laravel 12  
 - Buat projek CRUD lengkap dengan auth & testing  
 - Deployment di shared hosting maupun VPS
 
