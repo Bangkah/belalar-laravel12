@@ -1,5 +1,7 @@
 # Belajar Laravel 12
 
+---
+
 Repository pribadi untuk mendokumentasikan proses saya belajar Laravel 12 — dari instalasi, konfigurasi, routing, database, authentication, hingga deployment.  
 Commit-per-commit saya catat progressnya; repo ini akan terus bertambah seiring waktu.
 
